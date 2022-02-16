@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Node.js
 - 🤔 I’m looking for help with ... Docker
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jemuel-cabalida)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/jemc11/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love watching figure skating ⛸
 
